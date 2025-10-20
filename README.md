@@ -2,6 +2,10 @@
 Este projeto é uma prova de conceito (PoC) que demonstra o uso de reconhecimento facial com Python e OpenCV integrado a um sistema de login em uma plataforma de investimentos.
 O objetivo é autenticar usuários por meio da detecção facial local, validando se a face está presente na base antes de permitir o acesso.
 
+## Link Vídeo Explicativo
+
+https://youtu.be/-yNP0U6BM9s
+
 ## 👥 Integrantes
 
 - **Eduardo Fedeli Souza** — RM550132  
